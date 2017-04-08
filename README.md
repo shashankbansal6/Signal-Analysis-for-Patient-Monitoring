@@ -37,6 +37,12 @@
 <td align = "center"> a = 79.00, b = 97.07</td>
 <td align = "right"> a = 78.15, b = 96.09</td>
 </tr>
+
+<tr>
+<td>Respiration Rate (RR) </td>
+<td align = "center"> a = Generated using CDF, b = Generated using CDF</td>
+<td align = "right"> a = Generated using CDF, b = Generated using CDF</td>
+</tr>
 </tbody>
 </table>
 
