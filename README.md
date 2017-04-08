@@ -14,3 +14,29 @@
 </ul>
 
 ![System Design](https://github.com/shashankbansal6/Signal-Analysis-for-Patient-Monitoring/blob/master/System_Figure.JPG)
+
+<p>The following are the threshold values used: </p>
+
+<table>
+<thead>
+<tr>
+<th>Signals</th>
+<th align = "center">Empirical Thresholds</th>
+<th align = "right">Theoretical Thresholds</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Heart Rate (HR) </td>
+<td align = "center"> a = 80.17, b = 98.52</td>
+<td align = "right"> a = 78.84, b = 96.83</td>
+</tr>
+
+<tr>
+<td>Pressure Rate (PR) </td>
+<td align = "center"> a = 79.00, b = 97.07</td>
+<td align = "right"> a = 78.15, b = 96.09</td>
+</tr>
+</tbody>
+</table>
+
