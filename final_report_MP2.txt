@@ -1,5 +1,5 @@
-		MiniProject2_Group26
-		Shashank Bansal, Ryan  Alvaro, Louis Lu
+		MiniProject
+		Shashank Bansal
 
 
 Task 1.1 - Part a
