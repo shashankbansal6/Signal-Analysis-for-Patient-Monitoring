@@ -40,8 +40,8 @@
 
 <tr>
 <td>Respiration Rate (RR) </td>
-<td align = "center"> a = Generated using CDF, b = Generated using CDF</td>
-<td align = "right"> a = Generated using CDF, b = Generated using CDF</td>
+<td align = "center"> a,b  = Generated using CDF</td>
+<td align = "right"> a,b  = Generated using CDF</td>
 </tr>
 </tbody>
 </table>
